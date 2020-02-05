@@ -122,7 +122,7 @@ https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
 
 
-#EXTINF:-1 ,logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="TV+", Horee
+#EXTINF:-1 logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="TV+", Horee
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
  
 #EXTINF:-1 logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="TV+",Smithson
