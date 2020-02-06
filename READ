@@ -56,7 +56,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="NASIONAL",DAAI TV
-https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
+http://45.126.83.51/qwr9ew/s/s13/index.m3u8
 
 ########### TV+ ########### 
  
