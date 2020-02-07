@@ -1081,6 +1081,19 @@ http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high
 
 ########### FOOTBALL+ ########### 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUdMibBmnBwWAR0PTOyGHwjvq7fqjhywNChwDXP4AmvwBWSjWv" group-title="FOOTBALL+",USee Sport 1
+https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUdMibBmnBwWAR0PTOyGHwjvq7fqjhywNChwDXP4AmvwBWSjWv" group-title="FOOTBALL+",USee Sport 2
+https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw_ZXacHv2djF0cScZLypnWZZYLzD3FxlBRZV-Y8etqzCZeSlb" group-title="FOOTBALL+",MNC Sports 1
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjDa_KJP2OTH1WJ4rgu5W9YVkLAhXPgJWRQVg5J8-iv_EJySKD" group-title="FOOTBALL+",MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+
 #EXTINF:-1 tvg-id="SkySpPL" tvg-name="Sky Sports Premier League" tvg-logo="http://vtpi.best/chanicons/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="FOOTBALL+",Sky Sports Premier League
 http://siptv.vip:27373/b10664/nhzefw/20188
 
