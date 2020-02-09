@@ -119,7 +119,7 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RRI-net-250px.png" group-title="TV+", RRI Net
-http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
+http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 
 #EXTINF:-1 logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="TV+", Horee
