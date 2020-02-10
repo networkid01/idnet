@@ -58,6 +58,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="NASIONAL",RTV
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="NASIONAL",RTV HD
+https://dl.dropbox.com/s/ulxp0vub482y2h2/RTV2.m3u8?dl=0
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="NASIONAL",DAAI TV
 http://45.126.83.51/qwr9ew/s/s13/index.m3u8
 
