@@ -157,6 +157,12 @@ https://dl.dropbox.com/s/wc1m0tt4hb7ztgq/TV1new.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv1.png" group-title="Malaysia",TV1 FHD
 https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEJLkYY.png" group-title="Malaysia",TV2
+https://dl.dropbox.com/s/ohkjrk135accrz4/Tv2new.m3u8?dl=0
+
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO MALESIA SURIA" tvg-logo="" group-title="Malaysia",RTM BERITA
+https://dl.dropbox.com/s/4fxe6s9cegvc9xg/RTMBerita.m3u8?dl=0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", TV8
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSZ-F0LCYB2aZgZAkVNiAWA)/dm/3/x6qud17/s/live-3.m3u8
 
