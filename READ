@@ -149,7 +149,45 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="TV+",Nonstop Movies 3
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-########### NINMEDIA ########### 
+########### Malaysia ###########
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", TV1 HD
+https://dl.dropbox.com/s/wc1m0tt4hb7ztgq/TV1new.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv1.png" group-title="Malaysia",TV1 FHD
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", TV8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSZ-F0LCYB2aZgZAkVNiAWA)/dm/3/x6qud17/s/live-3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", Astro Prima
+http://dmtn.tv:8080/live/ahmed642710/ehuvnLl4i7/144382.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", Okey
+http://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", Suria
+http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", TV IKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO MALESIA SURIA" tvg-logo="" group-title="Malaysia", Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png" group-title="Malaysia",Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Malaysia", Astro Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 
 
 ########### DAERAH ########### 
