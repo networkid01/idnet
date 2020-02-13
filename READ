@@ -160,6 +160,9 @@ https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b206400
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sEJLkYY.png" group-title="Malaysia",TV2
 https://dl.dropbox.com/s/ohkjrk135accrz4/Tv2new.m3u8?dl=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", TV3
+https://dl.dropbox.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1200px-Logo_Vidio.png" group-title="Malaysia",RTM BERITA
 https://dl.dropbox.com/s/4fxe6s9cegvc9xg/RTMBerita.m3u8?dl=0
 
@@ -200,6 +203,9 @@ https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Malaysia", Astro Warna
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", DramaMalay
+https://dl.dropbox.com/s/z6h1eptmtf5ttlm/Drama%20Sangat.m3u8?dl=0
 
 
 ########### DAERAH ########### 
