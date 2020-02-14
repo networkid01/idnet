@@ -14,7 +14,7 @@ https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png?v=2.0.0.13" group-title="NASIONAL",SCTV
-http://tvku.live:8888/dayhard/u.rdhok/3593
+http://tvku.live:8888/dayhard/u.rdhok/931
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="NASIONAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -29,16 +29,16 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NETTV.m3u8
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="NASIONAL",Trans TV
-http://tvku.live:8888/dayhard/u.rdhok/3584
+http://tvku.live:8888/dayhard/u.rdhok/929
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="NASIONAL",Trans 7
-http://tvku.live:8888/dayhard/u.rdhok/3583
+http://tvku.live:8888/dayhard/u.rdhok/930
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="NASIONAL",TV ONE
 https://dl.dropbox.com/s/urfi7dpxum860v8/TVOne.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="NASIONAL",Indosiar
-http://tvku.live:8888/dayhard/u.rdhok/4839
+http://tvku.live:8888/dayhard/u.rdhok/33
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="NASIONAL",I News
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
