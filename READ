@@ -1282,13 +1282,16 @@ http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
  
 #EXTINF:0 group-title="TV CLUB",Astro Supersport 1
-https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=MfxrKeJ8
+http://tvku.live:8888/dayhard/u.rdhok/4834
+
 #EXTINF:0 group-title="TV CLUB",Astro Supersport 2
-https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=MfxrKeJ8
+http://tvku.live:8888/dayhard/u.rdhok/4835
+
 #EXTINF:0 group-title="TV CLUB",Astro Supersport 3
-https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=MfxrKeJ8
+http://tvku.live:8888/dayhard/u.rdhok/4836
+
 #EXTINF:0 group-title="TV CLUB",Astro Supersport 4
-https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=MfxrKeJ8
+http://tvku.live:8888/dayhard/u.rdhok/4837
 
 ########### SPORTS+ ########### 
 
