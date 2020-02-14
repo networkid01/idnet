@@ -1015,6 +1015,12 @@ https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1
 
 ########### KIDS ########### 
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", Dream Work HD
+https://dl.dropbox.com/s/9b9z5db065tqods/DreamWork.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", ZooMoo HD
+https://dl.dropbox.com/s/tozo7iqqswqmvpu/Zoomoo.m3u8?dl=0
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="KIDS",Disney Channel HD
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
 
@@ -1287,10 +1293,10 @@ https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=MfxrKeJ8
 ########### SPORTS+ ########### 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS+",beIN Sports 1 Asia
-https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
+https://dl.dropbox.com/s/omttlx53wpraf77/Bein1.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS+",beIN Sports 2 Asia
-https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
+https://dl.dropbox.com/s/piieteu6mq49rp3/Bein2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="SPORTS+",FOX Sport 1
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
