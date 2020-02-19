@@ -38,7 +38,7 @@ https://dl.dropbox.com/s/urfi7dpxum860v8/TVOne.m3u8?dl=0
 http://tvku.live:8888/dayhard/u.rdhok/33
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="NASIONAL",I News
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582232644~acl=/hls-p/ingest_5409_*/*~hmac=4acb11fc0f5ec671b1f6d7a206d54675a5cf25ab418160998e293fbfd2e5abad/hls-p/ingest_5409_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="NASIONAL",Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
