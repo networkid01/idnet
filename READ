@@ -2009,3 +2009,25 @@ https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3
 https://media-vidio-com.akamaized.net/uploads/1635620/ets-playlist-1600-32865.m3u8
 
 #########################################################
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION & LIFESTYLE
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION TOP MODEL
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION DESTINATION
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
