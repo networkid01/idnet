@@ -1,0 +1,417 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",True EPL
+https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",True EPL2
+https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",True EPL3
+https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",True EPL4
+https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",True EPL5
+https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Astro Super Sports 1 HD
+http://tvku.live:8888/rs378/2992/4156
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Astro Super Sports 2 HD
+http://tvku.live:8888/rs378/2992/4155
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Astro Super Sports 3 HD
+http://tvku.live:8888/rs378/2992/4154
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Astro Super Sports 4 HD
+http://tvku.live:8888/rs378/2992/4153
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Astro EPL 1 HD
+http://tvku.live:8888/rs378/2992/4233
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Astro EPL 2 HD
+http://tvku.live:8888/rs378/2992/4234
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Astro EPL 3 HD
+http://tvku.live:8888/rs378/2992/4235
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Astro Arena HD
+http://tvku.live:8888/rs378/2992/4236
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="ASIA SPORT",BeIN Sport 1
+http://tvku.live:8888/rs378/2992/728
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="ASIA SPORT",BeIN Sport 2
+http://tvku.live:8888/rs378/2992/729
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",BeIN Max HD Malaysia
+http://tvku.live:8888/rs378/2992/4272
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Champions TV 1
+http://tvku.live:8888/rs378/2992/2407
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Champions TV 2
+http://tvku.live:8888/rs378/2992/2409
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",Usee Sport 2
+http://tvku.live:8888/rs378/2992/2408
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="ASIA SPORT",Fox Sports 1
+http://tvku.live:8888/rs378/2992/51
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="ASIA SPORT",Fox Sports 2
+http://tvku.live:8888/rs378/2992/102
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="ASIA SPORT",Fox Sports 3
+http://tvku.live:8888/rs378/2992/101
+#EXTINF:0 tvg-id="animal_rus" group-title="ASIA SPORT",True Sport HD
+https://dl.dropboxusercontent.com/s/f5iu5d3fnptsulh/TSportHD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",True Sport HD2
+https://dl.dropboxusercontent.com/s/radwkifazgs930b/TSportHD2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",True Sport HD3
+https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",True Sport HD4
+https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",CCTV 5 HD
+http://tvku.live:8888/rs378/2992/595
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",CCTV 5 HD+
+http://tvku.live:8888/rs378/2992/814
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",MBC Sports
+http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ASIA SPORT",SBS Sports
+http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
+
+#EXTINF:0 tvg-id="SuperSport1.al" group-title="DSTV SUPERSPORT",SuperSport 1
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/825
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="DSTV SUPERSPORT",SuperSport 2
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/826
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="DSTV SUPERSPORT",SuperSport 3
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/827
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="DSTV SUPERSPORT",SuperSport 4
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/828
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="DSTV SUPERSPORT",SuperSport 5
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/829
+#EXTINF:0 tvg-id="SuperSport6.al" group-title="DSTV SUPERSPORT",SuperSport 6
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/830
+#EXTINF:0 tvg-id="ext" group-title="DSTV SUPERSPORT",SuperSport 7
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/831
+#EXTINF:0 tvg-id="ext" group-title="DSTV SUPERSPORT",SuperSport 8
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/832
+#EXTINF:0 tvg-id="ext" group-title="DSTV SUPERSPORT",SuperSport 9
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/833
+#EXTINF:0 tvg-id="ext" group-title="DSTV SUPERSPORT",SuperSport 10
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/834
+#EXTINF:0 tvg-id="ext" group-title="DSTV SUPERSPORT",SuperSport 11
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/835
+#EXTINF:0 tvg-id="ext" group-title="DSTV SUPERSPORT",SuperSport 12
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/836
+#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="DSTV SUPERSPORT",BeIN LaLiga
+http://tvku.live:8888/rs378/2992/416
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 1
+http://tvku.live:8888/rs378/2992/10
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 2
+http://tvku.live:8888/rs378/2992/11
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 3
+http://tvku.live:8888/rs378/2992/12
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 4
+http://tvku.live:8888/rs378/2992/217
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 5
+http://tvku.live:8888/rs378/2992/218
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 6
+http://tvku.live:8888/rs378/2992/219
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 7
+http://tvku.live:8888/rs378/2992/220
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 8
+http://tvku.live:8888/rs378/2992/221
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 9
+http://tvku.live:8888/rs378/2992/222
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 10
+http://tvku.live:8888/rs378/2992/253
+#EXTINF:0 tvg-id="bein11hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 11
+http://tvku.live:8888/rs378/2992/254
+#EXTINF:0 tvg-id="bein12hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 12
+http://tvku.live:8888/rs378/2992/255
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="DSTV SUPERSPORT",BeIN Sports 13
+http://tvku.live:8888/rs378/2992/3246
+
+#EXTINF:0 tvg-id="FoxSport1.nl" group-title="FOX SPORT NETHERLAND",NL: Fox Sports 1
+http://primeb.fr33.click/live/157?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="FOXsport2.nl" group-title="FOX SPORT NETHERLAND",NL: Fox Sports 2
+http://primeb.fr33.click/live/156?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="FOXsport2.nl" group-title="FOX SPORT NETHERLAND",NL: FOX Sports 2
+http://primeb.fr33.click/live/5645?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="FoxSport3.nl" group-title="FOX SPORT NETHERLAND",NL: Fox Sports 3
+http://primeb.fr33.click/live/155?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="FoxSport3.nl" group-title="FOX SPORT NETHERLAND",NL: FOX Sports 3
+http://primeb.fr33.click/live/7474?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="FOXsport4.nl" group-title="FOX SPORT NETHERLAND",NL: Fox Sports 4
+http://primeb.fr33.click/live/154?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="FOXsport4.nl" group-title="FOX SPORT NETHERLAND",NL: Fox Sports 4
+http://primeb.fr33.click/live/7475?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="FOXSportsEredivisie5.nl" group-title="FOX SPORT NETHERLAND",NL: Fox Sports 5
+http://primeb.fr33.click/live/153?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="FOXSportsEredivisie5.nl" group-title="FOX SPORT NETHERLAND",NL: Fox Sports 5
+http://primeb.fr33.click/live/7476?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="FoxSports6.nl" group-title="FOX SPORT NETHERLAND",NL: Fox Sports 6
+http://primeb.fr33.click/live/152?u=INo1beQm3U&s=dYUeQCJVJL
+
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 1
+http://prime.fr33.click/live/2393?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 2
+http://prime.fr33.click/live/2394?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 3
+http://prime.fr33.click/live/2395?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 4
+http://prime.fr33.click/live/2396?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 5
+http://prime.fr33.click/live/2397?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 6
+http://prime.fr33.click/live/2398?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 7
+http://prime.fr33.click/live/2399?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 8
+http://prime.fr33.click/live/2400?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 9
+http://prime.fr33.click/live/2401?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:0 tvg-id="ext" group-title="EPL LIVE GAMES",EPL 10
+http://prime.fr33.click/live/2402?u=INo1beQm3U&s=dYUeQCJVJL
+
+#EXTINF:0 tvg-id="BeINSports.es" group-title="LIVE DURING GAMES",Bein Sports HD
+http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="LIVE DURING GAMES",BT Sport 1 HD
+http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="LIVE DURING GAMES",BT Sport 2 HD
+http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="LIVE DURING GAMES",BT Sport 3 HD
+http://weak_spell.carniferou.club/edge/BTS3/chunks.m3u8
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="LIVE DURING GAMES",BT SPORT ESPN
+tp://weak_spell.carniferou.club/edge/BTESPN/chunks.m3u8
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="LIVE DURING GAMES",NBCSN
+http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="LIVE DURING GAMES",SKY SPORTS MAIN EVENT
+http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="LIVE DURING GAMES",PREMIER SPORTS
+http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
+#EXTINF:0 tvg-id="PremierSports2.uk" group-title="LIVE DURING GAMES",PREMIER SPORTS 2
+http://weak_spell.carniferou.club/edge/PS2/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 4
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 5
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 6
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLYWOOD MOVIE",HOLLYWOOD MOVIES 7
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 1
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 2
+https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 4
+https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 5
+https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 6
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 7
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 8
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 9
+https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 10
+https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 11
+https://dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 12
+https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 13
+https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 14
+https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 15
+https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 16
+https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 17
+https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX",Netflix LIVE Movies 18
+https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+
+#EXTINF:0 tvg-id="ort-hd" group-title="THAI",ONE HD
+https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ort-hd" group-title="THAI",ONE HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",PPTV 36-HD
+http://27.254.130.64/feed/chpptvhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",PPTV HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",3HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",CH3 HD
+http://27.254.130.64/feed/ch3hd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",CH5
+http://27.254.130.64/feed/ch5hd/playlist.m3u8
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="THAI",5 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",CH7 HD
+http://27.254.130.64/feed/ch7hd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",7 HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",MCOT-HD
+http://27.254.130.64/feed/chmcothd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",MCOT HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",THAIRATH HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",THAIRATH HD
+https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",AMARIN HD
+http://27.254.130.64/feed/chamarin/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",AMARIN HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",TPBS HD
+https://www.livedoomovie.com/02_THAIPBS_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",WORKPIONT
+https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",NBT
+http://122.155.92.8:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",NBT
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",MONO29
+https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",TRUE4U
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",GMM25
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",CH8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",TNN24
+https://www.livedoomovie.com/02_TNN24_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Nation TV
+http://live.nationtv.tv/hls/ntv_th_hq.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",NBT HD 2
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",TPTV
+https://www.livedoomovie.com/02_TPTV_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Workpoint HD
+http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",channel8thailand
+https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Smart SME Channel
+https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",Nation TV
+http://live.nationtv.tv/hls/ntv_th_hd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="THAI",13 Siam TV
+http://203.154.83.176:1935/live/13wDt2b6g4/playlist.m3u8
+
+#EXTINF:0 tvg-id="illuzion+" group-title="Việt Nam",VTV 1
+http://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTV 2
+http://xemtivi.online/live/vtv2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTV 3
+http://xemtivi.online/live/vtv3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTV 4
+http://xemtivi.online/live/vtv4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTV 5
+http://xemtivi.online/live/vtv5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTV 6
+http://xemtivi.online/live/vtv6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTV 7
+http://xemtivi.online/live/vtv7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTV 8
+http://xemtivi.online/live/vtv8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTV 9
+http://xemtivi.online/live/vtv9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 1
+https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 2
+http://xemtivi.online/live/vtc/vtc2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 3
+http://xemtivi.online/live/vtc/vtc3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 4
+http://xemtivi.online/live/vtc/vtc4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 5
+http://xemtivi.online/live/vtc/vtc5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 6
+http://xemtivi.online/live/vtc/vtc6/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 7
+http://xemtivi.online/live/vtc/vtc7/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 8
+http://xemtivi.online/live/vtc/vtc8/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 9
+http://xemtivi.online/live/vtc/vtc9/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 10
+http://xemtivi.online/live/vtc/vtc10/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 11
+http://xemtivi.online/live/vtc/vtc11/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 13
+http://xemtivi.online/live/vtc/vtc13/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 14
+http://xemtivi.online/live/vtc/vtc14/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VTC 16
+http://xemtivi.online/live/vtc/vtc16/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",ANTV
+https://v2bdoz1zs4.vcdn.com.vn/hls/ANTV_631/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",ANTV
+http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",BPTV 1
+http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",BPTV 2
+http://118.69.197.145/hls/bptv2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",BRT
+http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Việt Nam",BTV
+http://202.43.109.142:1935/thbttv/bttv/chunklist_w338975695.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Cà Mau TV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Đà Nẵng 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",DRT
+http://118.69.161.10:8134/liveevent.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Hanoi TV1
+http://hanoitvlive.488983e6.sabai.vn/hanoi1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Hanoi TV2
+http://hanoitvlive.488983e6.sabai.vn/hanoi2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Hưng Yên
+http://live.hungyentv.vn:1935/live/HYTV/chunklist_w769520286.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Kiên Giang
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Kiên Giang 1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:0 tvg-id="kiev-rus" group-title="Việt Nam",KRT
+http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",LA34
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Nghệ An
+https://live.truyenhinhnghean.vn/live/na1_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Nhân Dân
+http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
+#EXTINF:0 tvg-id="rtrpl" group-title="Việt Nam",PTP
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",QRT
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",Quốc Hội
+https://v2bdoz1zs4.vcdn.com.vn/hls/QH_631/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",QPVN
+https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",THBT
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",THDT
+http://202.43.109.142:1935/THDT/thdttv/chunklist_w1073711647.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",THTPCT
+https://tv.canthotv.vn/live/tv/tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",THHN
+http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",THLC
+http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",THGL
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",THTG
+http://thtg.vn:8001/thtg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",TN1
+http://thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",TTXVN
+http://live.vnanet.vn/720P/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VBS
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Việt Nam",VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
