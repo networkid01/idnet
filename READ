@@ -160,6 +160,9 @@ https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b206400
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sEJLkYY.png" group-title="Malaysia",TV2
 https://dl.dropbox.com/s/ohkjrk135accrz4/Tv2new.m3u8?dl=0
 
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM TV 2 FHD
+https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_Vidio.png/1200px-Logo_Vidio.png" group-title="Malaysia",RTM BERITA
 https://dl.dropbox.com/s/4fxe6s9cegvc9xg/RTMBerita.m3u8?dl=0
 
