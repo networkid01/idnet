@@ -2,14 +2,6 @@
 
 ============================LOKAL=============================
 
-#EXTINF:-1 tvg-ID="RuangTerampil.id" tvg-name="Ruang Trampil" tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.14" group-title="Lokal", Ruang Trampil
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/XOccWaaX/ohzg8pxV/rattus/ruang_trampil/playlist.m3u8
-#EXTINF:-1 tvg-ID="UseePhoto.id" tvg-name="Usee Photo" tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13?v=2.0.0.12" group-title="Lokal", Usee Photo
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/XOccWaaX/ohzg8pxV/rattus/usee_photo/playlist.m3u8
-#EXTINF:-1 tvg-ID="UseePrime.id" tvg-name="Usee Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Useeprime.png" group-title="Lokal", Usee Prime
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/XOccWaaX/ohzg8pxV/rattus/useeprime/playlist.m3u8
-#EXTINF:-1 tvg-ID="idKU.id" tvg-name="iDKU" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_big.png?v=2.0.0.14" group-title="Lokal", iDKU
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/XOccWaaX/ohzg8pxV/rattus/idku/playlist.m3u8
 #EXTINF:-1 tvg-ID="ANTV.id" tvg-name="ANTV" tvg-logo="https://macan.live/img/antv.png" group-title="Lokal", ANTV
 https://delivery.macan.live/stream/id_antv/index.m3u8?token=Lse1lRx5&v=20200202
 #EXTINF:-1 tvg-ID="Indosiar.id"  tvg-name="INDOSIAR" tvg-logo="https://macan.live/img/indosiar.png" group-title="Lokal", INDOSIAR
