@@ -1,395 +1,447 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Lokal",ANTV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/607.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Trans TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/612.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Trans 7
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/611.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/608.ts
-#EXTINF:0 tvg-id="rtvint" group-title="Lokal",RTV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/614.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",RCTI HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/604.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",RRI Net
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/676.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",NET. HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/610.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",MNC TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/605.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Indosiar
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/609.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Kompas TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/615.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",iNews
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/522.ts
-#EXTINF:0 tvg-id="Metro.pl" group-title="Lokal",Metro TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/523.ts
-#EXTINF:0 tvg-id="TVOne.uk" group-title="Lokal",TV ONE
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/613.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",GTV HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/606.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",MyTV HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/544.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",TVRI
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/619.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",TVKU
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/965.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",MGS TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/963.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",SBC TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/964.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Batam TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/962.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Bandung TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/958.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Jak TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/616.ts
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Jawa Pos TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/617.ts
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",RCTI
+http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",SCTV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/4
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",Trans TV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/5
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",Trans 7
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/6
+#EXTINF:0 tvg-id="gtv.il" group-title="NASIONAL",GTV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/12
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",MNCTV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/7
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",Indosiar
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/8
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",ANTV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/9
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",TVOne
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/10
+#EXTINF:0 tvg-id="Metro.pl" group-title="NASIONAL",Metro TV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/11
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",Kompas TV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/14
+#EXTINF:0 tvg-id="ext" group-title="NASIONAL",TVRI
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/16
+#EXTINF:0 tvg-id="rtvint" group-title="NASIONAL",RTV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/18
 
-#EXTINF:0 tvg-id="ext" group-title="Science",TV Edukasi
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/959.ts
-#EXTINF:0 tvg-id="dwelle" group-title="Science",DW TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/479.ts
-#EXTINF:0 tvg-id="animal-hd" group-title="Science",Animal Planet HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/480.ts
-#EXTINF:0 tvg-id="wild-hd" group-title="Science",NatGeo Wild HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/488.ts
-#EXTINF:0 tvg-id="natgeowild" group-title="Science",NatGeo Wild SD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/881.ts
-#EXTINF:0 tvg-id="NGC.nl" group-title="Science",NatGeo Channel HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/487.ts
-#EXTINF:0 tvg-id="natgeo" group-title="Science",NatGeo Channel SD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/880.ts
-#EXTINF:0 tvg-id="NatGeoPeople.it" group-title="Science",NatGeo People HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/489.ts
-#EXTINF:0 tvg-id="ext" group-title="Science",Love Nature 4K
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/473.ts
-#EXTINF:0 tvg-id="BBCEarth.nordic" group-title="Science",BBC Earth
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/485.ts
-#EXTINF:0 tvg-id="outdoor" group-title="Science",Outdoor Channel
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/490.ts
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Science",History HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/484.ts
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Science",Discovery Turbo
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/760.ts
-#EXTINF:0 tvg-id="ext" group-title="Science",Discovery Asia FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/486.ts
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Science",Discovery Channel FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/759.ts
-#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Science",Crime Investigation
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/482.ts
-#EXTINF:0 tvg-id="ext" group-title="Science",Smith Sonian HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/483.ts
+#EXTINF:0 tvg-id="ext" group-title="NEWS",Berita Satu
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/17
+#EXTINF:0 tvg-id="ext" group-title="NEWS",CNBC Indonesia
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/13
 
-#EXTINF:0 tvg-id="ext" group-title="Empire Group",Empire Movies 1 (Trial)
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/945.ts
-#EXTINF:0 tvg-id="ext" group-title="Empire Group",Empire Live Event (Trial)
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/946.ts
-#EXTINF:0 tvg-id="ext" group-title="Empire Group",Empire Sport (Trial)
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/960.ts
+#EXTINF:0 tvg-id="ext" group-title="TV+",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV+",IMC HD
+https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
+#EXTINF:0 tvg-id="ext" group-title="TV+",Flik HD
+https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
+#EXTINF:0 tvg-id="ext" group-title="TV+",Citra Drama
+https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
+#EXTINF:0 tvg-id="ext" group-title="TV+",The Indonesia Chanel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV+",Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV+",Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV+",Lifestyle
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/42
 
-#EXTINF:0 tvg-id="NBA.blt" group-title="Sport",NBA HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/507.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",TVRI Sport
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/510.ts
-#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/512.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",Red Bull TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/509.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",RTM Sport
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/957.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",eGG Network
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/508.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",Golf Life FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/511.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",Usee Sport 1
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/502.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",Usee Sport 2
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/503.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",Champion TV 1
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/504.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",Champion TV 2
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/505.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",Champion TV 3
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/935.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",Bein Sports 1
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/515.ts
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",Bein Sports 2
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/516.ts
-#EXTINF:0 tvg-id="FoxSport1.nl" group-title="Sport",FOX Sports 1 HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/620.ts
-#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Sport",FOX Sports 2 HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/517.ts
-#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Sport",FOX Sports 3 HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/518.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 1 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/882.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 2 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/883.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 3 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/884.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 4 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/885.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 5 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/886.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 6 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/887.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 7 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/888.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 8 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/889.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 9 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/890.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 10 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/891.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 11 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/892.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",AF Supersport 12 FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/893.ts
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="MOVIES",HBO
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/56
+#EXTINF:0 tvg-id="HBOHits.in" group-title="MOVIES",HBO Hits
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="MOVIES",HBO Family
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="MOVIES",Warner
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/76
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",Fox Movies Premium
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/52
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",Fox Action Movies
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/53
+#EXTINF:0 tvg-id="fox-crime" group-title="MOVIES",Fox Crime
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/54
+#EXTINF:0 tvg-id="fox-crime" group-title="MOVIES",Fox
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/55
+#EXTINF:0 tvg-id="FX.uk" group-title="MOVIES",FX
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/59
+#EXTINF:0 tvg-id="AXN.bg" group-title="MOVIES",AXN
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",THRILL
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/22
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="MOVIES",HITS
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/43
+#EXTINF:0 tvg-id="Kix.uk" group-title="MOVIES",KIX
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/48
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",My Cinema Channel
+http://210.210.155.69/s/s31/S4/mnf.m3u8
 
-#EXTINF:0 tvg-id="HBO.hu" group-title="Movies",HBO FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/847.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",HBO Hits FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/849.ts
-#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Movies",HBO Family FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/848.ts
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="Movies",HBO Signature FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/850.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Red By HBO
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/689.ts
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="Movies",Cinemax FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/852.ts
-#EXTINF:0 tvg-id="HBO.hu" group-title="Movies",HBO HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/576.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",HBO Hits HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/578.ts
-#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Movies",HBO Family HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/661.ts
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="Movies",HBO Signature HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/577.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Red By HBO HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/854.ts
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="Movies",Cinemax HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/589.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",FOX Family Movies HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/584.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",FOX Action Movies HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/586.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",FOX Movies Premium HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/585.ts
-#EXTINF:0 tvg-id="AXN.it" group-title="Movies",AXN HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/855.ts
-#EXTINF:0 tvg-id="FXHD.mx" group-title="Movies",FX HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/580.ts
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Movies",FOX Life HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/583.ts
-#EXTINF:0 tvg-id="fox-crime" group-title="Movies",FOX Crime HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/582.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",FOX Channel HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/581.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Blue Ant Extreme HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/587.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Blue Ant Entertain HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/588.ts
-#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="Movies",HITS HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/574.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",HITS Movies
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/575.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",KIX HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/594.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Thrill HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/595.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",WarnerTV HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/593.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Cinemaworld HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/597.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",IMC
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/598.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Flik HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/600.ts
-#EXTINF:0 tvg-id="galaxy" group-title="Movies",Galaxy
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/601.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Bioskop Indonesia
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/599.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Zing HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/735.ts
-#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Bioskop HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/733.ts
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",Blue Ant Entertainment
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/45
+#EXTINF:0 tvg-id="BBCEarth.nordic" group-title="ENTERTAINMENT",BBC Earth
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/79
+#EXTINF:0 tvg-id="BBCFirst.uk" group-title="ENTERTAINMENT",BBC First
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/79
+#EXTINF:0 tvg-id="fashion" group-title="ENTERTAINMENT",FASHION TV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/73
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",FASHION TV MIDNIGHT
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/73
+#EXTINF:0 tvg-id="tlc-russia" group-title="ENTERTAINMENT",TLC
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/78
+#EXTINF:0 tvg-id="HGTV.us" group-title="ENTERTAINMENT",HGTV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/63
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",AFN
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/94
+#EXTINF:0 tvg-id="history-rus" group-title="ENTERTAINMENT",History
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/71
+#EXTINF:0 tvg-id="natgeo" group-title="ENTERTAINMENT",National Geographic
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/64
+#EXTINF:0 tvg-id="NatGeoPeople.in" group-title="ENTERTAINMENT",Nat Geo People
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/62
+#EXTINF:0 tvg-id="natgeowild" group-title="ENTERTAINMENT",Nat Geo Wild
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/63
+#EXTINF:0 tvg-id="discov_rus" group-title="ENTERTAINMENT",Discovery Channel
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/67
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",Discovery Asia
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/90
+#EXTINF:0 tvg-id="ocean" group-title="ENTERTAINMENT",OCEAN TV
+http://188.35.9.5:10007/stolen/122v/parasite.install
+#EXTINF:0 tvg-id="animal_rus" group-title="ENTERTAINMENT",Animal Planet
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/77
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",WakuWaku
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/74
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",Celestial Movies
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/21
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",K DRAMA
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/23
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",STAR CHINESE MOVIES
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/131
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",SONY GEM
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/39
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",SONY ONE
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/44
+#EXTINF:0 tvg-id="TVN.pl" group-title="ENTERTAINMENT",TVN
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/57
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",Korea+
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/23
+#EXTINF:0 tvg-id="arirang-en" group-title="ENTERTAINMENT",ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENTERTAINMENT",ZEE BIOSKOP
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
-#EXTINF:0 tvg-id="ext" group-title="Mandarin",CCM HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/682.ts
-#EXTINF:0 tvg-id="ext" group-title="Mandarin",SCM FHD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/590.ts
-#EXTINF:0 tvg-id="ext" group-title="Mandarin",Xing Kong
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/807.ts
-#EXTINF:0 tvg-id="ext" group-title="Mandarin",Celestial Movie HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/592.ts
-#EXTINF:0 tvg-id="ext" group-title="Mandarin",Chinese Drama
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/603.ts
-#EXTINF:0 tvg-id="ext" group-title="Mandarin",Hi Indo
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/602.ts
-#EXTINF:0 tvg-id="CGTN.cn" group-title="Mandarin",CGTN
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/481.ts
+#EXTINF:0 tvg-id="mtv-rus" group-title="MUSIC CHANNEL",MTV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/88
+#EXTINF:0 tvg-id="mtv-hits" group-title="MUSIC CHANNEL",MTV Hits
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/123
+#EXTINF:0 tvg-id="ChannelV.in" group-title="MUSIC CHANNEL",Channel V
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/65
+#EXTINF:0 tvg-id="ext" group-title="MUSIC CHANNEL",RACE URBAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC CHANNEL",B MUSIC SESSION
+https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
+#EXTINF:0 tvg-id="ext" group-title="MUSIC CHANNEL",PRAMBORS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
+#EXTINF:0 tvg-id="ONE.ca" group-title="MUSIC CHANNEL",ONE
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-id="ext" group-title="MUSIC CHANNEL",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:0 tvg-id="BoxHits.uk" group-title="MUSIC CHANNEL",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:0 tvg-id="ext" group-title="Kids",AniPlus HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/563.ts
-#EXTINF:0 tvg-id="ext" group-title="Kids",Animax HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/564.ts
-#EXTINF:0 tvg-id="boomerang" group-title="Kids",Boomerang
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/566.ts
-#EXTINF:0 tvg-id="ext" group-title="Kids",Horee
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/565.ts
-#EXTINF:0 tvg-id="cartoon" group-title="Kids",Cartoon Network
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/568.ts
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Kids",Disney Junior
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/570.ts
-#EXTINF:0 tvg-id="disney" group-title="Kids",Disney Channel
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/571.ts
-#EXTINF:0 tvg-id="da_vinci-rus" group-title="Kids",DA Vinci
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/569.ts
-#EXTINF:0 tvg-id="ext" group-title="Kids",DreamWorks
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/572.ts
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Kids",Nicklodeon
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/567.ts
-#EXTINF:0 tvg-id="nick-jr" group-title="Kids",Nick JR
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/573.ts
-#EXTINF:0 tvg-id="ext" group-title="Kids",Space Toon
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/562.ts
-#EXTINF:0 tvg-id="ext" group-title="Kids",ZooMoo HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/561.ts
-#EXTINF:0 tvg-id="ext" group-title="Kids",Tom & Jerry 24H
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/895.ts
-#EXTINF:0 tvg-id="ext" group-title="Kids",Larva 24H
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/894.ts
-
-#EXTINF:0 tvg-id="ext" group-title="News",Rusia Today
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/527.ts
-#EXTINF:0 tvg-id="ext" group-title="News",CCTV 4 HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/526.ts
-#EXTINF:0 tvg-id="bloomberg" group-title="News",Bloomberg
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/966.ts
-#EXTINF:0 tvg-id="ext" group-title="News",NHK World HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/748.ts
-#EXTINF:0 tvg-id="euro" group-title="News",Euro News
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/534.ts
-#EXTINF:0 tvg-id="ext" group-title="News",Jakarta Globe News
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/739.ts
-#EXTINF:0 tvg-id="ext" group-title="News",IDX Channel
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/738.ts
-#EXTINF:0 tvg-id="ext" group-title="News",Al-Jazeera HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/524.ts
-#EXTINF:0 tvg-id="ext" group-title="News",Berita Satu World
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/741.ts
-#EXTINF:0 tvg-id="ext" group-title="News",Berita Satu
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/740.ts
-#EXTINF:0 tvg-id="ext" group-title="News",CNA News
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/531.ts
-#EXTINF:0 tvg-id="ext" group-title="News",CNBC Indonesia HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/521.ts
-#EXTINF:0 tvg-id="ext" group-title="News",CNN Indonesia HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/520.ts
-#EXTINF:0 tvg-id="tv5monde" group-title="News",TV5 Monde
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/532.ts
-#EXTINF:0 tvg-id="france24" group-title="News",France 24 HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/528.ts
-#EXTINF:0 tvg-id="bbc-world" group-title="News",BBC World News
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/530.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Music",T Music
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/500.ts
-#EXTINF:0 tvg-id="ChannelV.in" group-title="Music",Channel V
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/498.ts
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Music",MTV Live
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/501.ts
-#EXTINF:0 tvg-id="ext" group-title="Music",Prambors TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/499.ts
-#EXTINF:0 tvg-id="ext" group-title="Music",Lapak Musik TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/949.ts
-#EXTINF:0 tvg-id="ext" group-title="Music",Mix Music
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/677.ts
-#EXTINF:0 tvg-id="ext" group-title="Music",Citra Dangdut
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/709.ts
-#EXTINF:0 tvg-id="ext" group-title="Music",Karaoke Channel
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/678.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Citra Drama
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/551.ts
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Usee Prime
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/555.ts
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Usee Photo
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/554.ts
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Ruang Terampil
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/557.ts
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",ID KU
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/556.ts
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",DAAI TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/560.ts
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Dunia Lain
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/547.ts
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",O Channel HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/559.ts
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Sinema Indonesia
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/545.ts
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Home Links
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/558.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Korea",Sony GEM HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/536.ts
-#EXTINF:0 tvg-id="ext" group-title="Korea",K+ HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/543.ts
-#EXTINF:0 tvg-id="ext" group-title="Korea",Arirang HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/542.ts
-#EXTINF:0 tvg-id="ext" group-title="Korea",Sony ONE HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/537.ts
-#EXTINF:0 tvg-id="KBSWorld.kr" group-title="Korea",KBS World
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/541.ts
-#EXTINF:0 tvg-id="ext" group-title="Korea",K Drama
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/535.ts
-#EXTINF:0 tvg-id="ext" group-title="Korea",Waku-Waku Japan HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/540.ts
-#EXTINF:0 tvg-id="TVN.pl" group-title="Korea",TVN
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/538.ts
-#EXTINF:0 tvg-id="ext" group-title="Korea",TVN Movies
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/539.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Religi",Makkah Live
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/491.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",Madinah Live
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/492.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",Al Bahjah TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/930.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",Ahsan TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/915.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",TV9 NU
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/495.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",Tawaf TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/673.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",Khazanah
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/674.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",Salam TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/493.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",Nabawi TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/812.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",Rodja TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/497.ts
-#EXTINF:0 tvg-id="ext" group-title="Religi",Reformed 21 (Kristen)
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/814.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Food & LifeStyle",Eat & Go
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/548.ts
-#EXTINF:0 tvg-id="ext" group-title="Food & LifeStyle",Asian Food Network
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/477.ts
-#EXTINF:0 tvg-id="HGTV.pl" group-title="Food & LifeStyle",HGTV HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/476.ts
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Food & LifeStyle",TLC HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/475.ts
-#EXTINF:0 tvg-id="ext" group-title="Food & LifeStyle",Life Time HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/472.ts
-#EXTINF:0 tvg-id="fashion" group-title="Food & LifeStyle",Fashion TV
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/550.ts
-#EXTINF:0 tvg-id="fashion-one" group-title="Food & LifeStyle",Fashion One
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/549.ts
-#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Food & LifeStyle",BBC LifeStyle HD
-http://streamku.live:8888/live/sabtugratis/gakperludicomot/474.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="SPORTS",Canal+ Sport
+http://skdn.redi-vo.com/iptv/ch202?code=103131497823984&key=22881
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS",SONY TEN 1
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/35
+#EXTINF:0 tvg-id="TenAction.in" group-title="SPORTS",SONY TEN 2
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/36
+#EXTINF:0 tvg-id="TenCricket.in" group-title="SPORTS",SONY TEN 3
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/37
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="SPORTS",BeInSport 1 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="SPORTS",BeInSport 1 SD
+http://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="SPORTS",BeInSport 2 HD
+http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="SPORTS",BeInSport 2 SD
+http://skdn.redi-vo.com/iptv/ch8112?code=103131497823984&key=12334
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="SPORTS",BeInSport 3 SD
+http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="SPORTS",BeInSport 4 HD
+http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BeInSport 4 SD
+http://skdn.redi-vo.com/iptv/ch8114?code=103131497823984&key=40487
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="SPORTS",BeInSport 5 HD
+http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="SPORTS",BeInSport 6 HD
+http://skdn.redi-vo.com/iptv/ch116?code=103131497823984&key=57392
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="SPORTS",BeInSport 7 HD
+http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="SPORTS",BeInSport 8 HD
+http://skdn.redi-vo.com/iptv/ch118?code=103131497823984&key=43336
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="SPORTS",BeInSport 9 HD
+http://skdn.redi-vo.com/iptv/ch510?code=103131497823984&key=27398
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BeInSport 9 SD
+http://skdn.redi-vo.com/iptv/ch8510?code=103131497823984&key=20158
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="SPORTS",BeInSport 10 HD
+http://skdn.redi-vo.com/iptv/ch511?code=103131497823984&key=51278
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="SPORTS",BeInSport 10 SD
+http://skdn.redi-vo.com/iptv/ch8511?code=103131497823984&key=15103
+#EXTINF:0 tvg-id="beINSPORTSenespanol.us" group-title="SPORTS",Bein Sport
+http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BeinSport 1 TR
+http://skdn.redi-vo.com/iptv/ch1353?code=103131497823984&key=31156
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BeinSport 3 TR
+http://skdn.redi-vo.com/iptv/ch2356?code=103131497823984&key=44129
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BeinSport 4 TR
+http://skdn.redi-vo.com/iptv/ch2360?code=103131497823984&key=19535
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BeinSport Max 1
+http://skdn.redi-vo.com/iptv/ch2358?code=103131497823984&key=41059
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BeinSport Max 2
+http://skdn.redi-vo.com/iptv/ch2359?code=103131497823984&key=29388
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="SPORTS",Bein Sports News
+http://skdn.redi-vo.com/iptv/ch110?code=103131497823984&key=44880
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="SPORTS",BeInSport 2 FR
+http://skdn.redi-vo.com/iptv/ch120?code=103131497823984&key=38010
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="SPORTS",BeInSport 3 FR
+http://skdn.redi-vo.com/iptv/ch206?code=103131497823984&key=26341
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="SPORTS",BeInSport Max 4
+http://skdn.redi-vo.com/iptv/ch340?code=103131497823984&key=46196
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="SPORTS",BeInSport Max 5
+http://skdn.redi-vo.com/iptv/ch341?code=103131497823984&key=45618
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="SPORTS",BeInSport Max 6
+http://skdn.redi-vo.com/iptv/ch342?code=103131497823984&key=61413
+#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="SPORTS",BeInSport Max 8
+http://skdn.redi-vo.com/iptv/ch344?code=103131497823984&key=31483
+#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="SPORTS",BeInSport Max 9
+http://skdn.redi-vo.com/iptv/ch345?code=103131497823984&key=28076
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BeInSport Max 10
+http://skdn.redi-vo.com/iptv/ch346?code=103131497823984&key=22468
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Bein Sport SPANA
+http://skdn.redi-vo.com/iptv/ch1220?code=103131497823984&key=25450
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Eleven Sport 1 Cy
+http://skdn.redi-vo.com/iptv/ch1648?code=103131497823984&key=46306
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",AD Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch122?code=103131497823984&key=21973
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",AD Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch603?code=103131497823984&key=53427
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",AD Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch5519?code=103131497823984&key=18357
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",AD Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch5520?code=103131497823984&key=41241
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="SPORTS",BT Sport 1
+http://skdn.redi-vo.com/iptv/ch1828?code=103131497823984&key=45498
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="SPORTS",BT Sport 2
+http://skdn.redi-vo.com/iptv/ch1829?code=103131497823984&key=57494
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="SPORTS",BT Sport 3
+http://skdn.redi-vo.com/iptv/ch1830?code=103131497823984&key=30373
+#EXTINF:0 tvg-id="ESPN2.us" group-title="SPORTS",ESPN2 HD
+http://skdn.redi-vo.com/iptv/ch3512?code=103131497823984&key=16615
+#EXTINF:0 tvg-id="ESPN.uk" group-title="SPORTS",ESPN HD
+http://skdn.redi-vo.com/iptv/ch3511?code=103131497823984&key=54244
+#EXTINF:0 tvg-id="ESPNews.us" group-title="SPORTS",ESPN News HD
+http://skdn.redi-vo.com/iptv/ch3510?code=103131497823984&key=60519
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="SPORTS",FOX Sport 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="FOXsport2.nl" group-title="SPORTS",Fox Sport 2
+http://skdn.redi-vo.com/iptv/ch3514?code=103131497823984&key=23881
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="SPORTS",Fox sport 3
+http://skdn.redi-vo.com/iptv/ch880?code=103131497823984&key=48133
+#EXTINF:0 tvg-id="FOXsport4.nl" group-title="SPORTS",Fox Sport 4
+http://skdn.redi-vo.com/iptv/ch1861?code=103131497823984&key=50684
+#EXTINF:0 tvg-id="FOXSportsEredivisie5.nl" group-title="SPORTS",Fox Sport 5
+http://skdn.redi-vo.com/iptv/ch1862?code=103131497823984&key=33238
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Fox Sport 6
+http://skdn.redi-vo.com/iptv/ch1863?code=103131497823984&key=59444
+#EXTINF:0 tvg-id="Sportitalia.it" group-title="SPORTS",Sport Italia
+http://skdn.redi-vo.com/iptv/ch1933?code=103131497823984&key=32845
+#EXTINF:0 tvg-id="MotorTrend.it" group-title="SPORTS",Motor Trend
+http://skdn.redi-vo.com/iptv/ch993?code=103131497823984&key=42448
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Zelig Sport
+http://skdn.redi-vo.com/iptv/ch994?code=103131497823984&key=13779
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Movistar LaLiga 1 HD
+http://skdn.redi-vo.com/iptv/ch1224?code=103131497823984&key=17683
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="SPORTS",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="Eurosport1.nl" group-title="SPORTS",Eurosport 1 NL
+http://skdn.redi-vo.com/iptv/ch1969?code=103131497823984&key=38198
+#EXTINF:0 tvg-id="Eurosport2.nl" group-title="SPORTS",Eurosport 2 NL
+http://skdn.redi-vo.com/iptv/ch3549?code=103131497823984&key=17867
+#EXTINF:0 tvg-id="esp-hd" group-title="SPORTS",EuroSport 1 HD
+http://skdn.redi-vo.com/iptv/ch743?code=103131497823984&key=45912
+#EXTINF:0 tvg-id="esp2-hd" group-title="SPORTS",EuroSport 2 HD
+http://skdn.redi-vo.com/iptv/ch744?code=103131497823984&key=23667
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",One Golf
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/33
+#EXTINF:0 tvg-id="NBA.blt" group-title="SPORTS",NBA
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/34
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="SPORTS",Tennis Channel
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/50
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="SPORTS",Super Tennis
+http://skdn.redi-vo.com/iptv/ch1544?code=103131497823984&key=33560
+#EXTINF:0 tvg-id="TenisPremium1.pl" group-title="SPORTS",TENIS 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:0 tvg-id="TenisPremium2.pl" group-title="SPORTS",TENIS 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="SPORTS",FIGHT NETWORK
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/82
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SPORT MAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Uni Sports
+http://unisportslive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="SPORTS",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="SPORTS",Sport TV 1 PT
+http://skdn.redi-vo.com/iptv/ch2123?code=103131497823984&key=48317
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="SPORTS",Sport TV 2 PT
+http://skdn.redi-vo.com/iptv/ch2124?code=103131497823984&key=23461
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="SPORTS",Sport TV 3 PT
+http://skdn.redi-vo.com/iptv/ch2125?code=103131497823984&key=54310
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="SPORTS",Sport TV 4 PT
+http://skdn.redi-vo.com/iptv/ch2126?code=103131497823984&key=18673
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="SPORTS",Sport TV 5 PT
+http://skdn.redi-vo.com/iptv/ch2127?code=103131497823984&key=49822
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Movistar Toros
+http://skdn.redi-vo.com/iptv/ch1226?code=103131497823984&key=15504
+#EXTINF:0 tvg-id="Golf.sp" group-title="SPORTS",Movistar Golf
+http://skdn.redi-vo.com/iptv/ch1227?code=103131497823984&key=6
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Nile Sport
+http://skdn.redi-vo.com/iptv/ch183?code=103131497823984&key=23703
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TELE DEPORTE SP
+http://skdn.redi-vo.com/iptv/ch1208?code=103131497823984&key=60635
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Canal+ Sport 1 Cy
+http://skdn.redi-vo.com/iptv/ch4527?code=103131497823984&key=39502
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Canal+ Sport 2 Cy
+http://skdn.redi-vo.com/iptv/ch6528?code=103131497823984&key=64382
+#EXTINF:0 tvg-id="SonyESPN.in" group-title="SPORTS",SONY ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:0 tvg-id="SonySix.in" group-title="SPORTS",SONY SIX
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS",SONY TEN 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="SPORTS",SONY TEN 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="SPORTS",Sony TEN 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:0 tvg-id="ABMoteurs.fr" group-title="SPORTS",AB Moteur
+http://skdn.redi-vo.com/iptv/ch268?code=103131497823984&key=34426
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Golf Plus FR
+http://skdn.redi-vo.com/iptv/ch1299?code=103131497823984&key=28405
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Golf Channel FR
+http://skdn.redi-vo.com/iptv/ch290?code=103131497823984&key=4312
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",RMC News HD
+http://skdn.redi-vo.com/iptv/ch244?code=103131497823984&key=24950
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="SPORTS",RMC Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="SPORTS",RMC Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch253?code=103131497823984&key=43971
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="SPORTS",RMC Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch254?code=103131497823984&key=13496
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="SPORTS",RMC Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch243?code=103131497823984&key=62334
+#EXTINF:0 tvg-id="TRT3.tr" group-title="SPORTS",TRT Sport
+http://skdn.redi-vo.com/iptv/ch1363?code=103131497823984&key=44118
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport Tv TR
+http://skdn.redi-vo.com/iptv/ch2366?code=103131497823984&key=29705
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="SPORTS",Tivibu Sport 2
+http://skdn.redi-vo.com/iptv/ch2362?code=103131497823984&key=10226
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Smart Sport 1
+http://skdn.redi-vo.com/iptv/ch1355?code=103131497823984&key=20046
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",M.L. Campeones HD SP
+http://skdn.redi-vo.com/iptv/ch1281?code=103131497823984&key=32884
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Yas Sports
+http://skdn.redi-vo.com/iptv/ch629?code=103131497823984&key=11373
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Ahly Channel
+http://skdn.redi-vo.com/iptv/ch783?code=103131497823984&key=59553
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Saudie Sport
+http://skdn.redi-vo.com/iptv/ch747?code=103131497823984&key=20096
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",AUTO MOTO
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",CT-Sport
+http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Neox SP
+http://skdn.redi-vo.com/iptv/ch1229?code=103131497823984&key=58268
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Moto GP HD SP
+http://skdn.redi-vo.com/iptv/ch1284?code=103131497823984&key=11345
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Formula1 HD SP
+http://skdn.redi-vo.com/iptv/ch1285?code=103131497823984&key=47444
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",match onlly
+http://195.154.114.22/hls/103.m3u8
+#EXTINF:0 tvg-id="Infosport.fr" group-title="SPORTS",Infosport HD
+http://skdn.redi-vo.com/iptv/ch250?code=103131497823984&key=11032
+#EXTINF:0 tvg-id="TSN1.ca" group-title="SPORTS",TSN 1 HD
+http://skdn.redi-vo.com/iptv/ch3522?code=103131497823984&key=12157
+#EXTINF:0 tvg-id="TSN2.ca" group-title="SPORTS",TSN 2 HD
+http://skdn.redi-vo.com/iptv/ch3523?code=103131497823984&key=54617
+#EXTINF:0 tvg-id="TSN3.ca" group-title="SPORTS",TSN 3 HD
+http://skdn.redi-vo.com/iptv/ch3524?code=103131497823984&key=24582
+#EXTINF:0 tvg-id="TSN5.ca" group-title="SPORTS",TSN 5 HD
+http://skdn.redi-vo.com/iptv/ch3526?code=103131497823984&key=38701
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="SPORTS",NBC HD
+http://skdn.redi-vo.com/iptv/ch3521?code=103131497823984&key=61270
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",WWE net.
+http://skdn.redi-vo.com/iptv/ch3518?code=103131497823984&key=21916
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",NHL net. HD
+http://skdn.redi-vo.com/iptv/ch3517?code=103131497823984&key=50778
+#EXTINF:0 tvg-id="NBA.blt" group-title="SPORTS",NBA HD
+http://skdn.redi-vo.com/iptv/ch3515?code=103131497823984&key=40035
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Champions tv 1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Champions tv 2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="SPORTS",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Liga Indonesia
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 1 (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 1 (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 2 (SD)
+https://ott-live.olympicchannel.com/out/u/OC2_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 2 (HD)
+https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 3 (HD)
+https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 3 (SD)
+https://ott-live.olympicchannel.com/out/u/OC3_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 4 (SD)
+https://ott-live.olympicchannel.com/out/u/OC4_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 4 (HD)
+https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 5 (SD)
+https://ott-live.olympicchannel.com/out/u/OC5_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Olympic Channel 5 (HD)
+https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
+#EXTINF:0 tvg-id="disney" group-title="SPORTS",Disney Channel
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/60
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="SPORTS",Disney Junior
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/61
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="SPORTS",Nickelodeon
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/91
+#EXTINF:0 tvg-id="nick-jr" group-title="SPORTS",Nick Junior
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/81
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Miao Mi
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/84
+#EXTINF:0 tvg-id="Animax.de" group-title="SPORTS",Animax
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/47
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Aniplus
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/51
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="SPORTS",Crime & Investigation
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/95
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",Bloomberg Asia
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/89
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="SPORTS",ALJAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",BLOOMBERG 2
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
