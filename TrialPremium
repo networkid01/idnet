@@ -64,3 +64,68 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV.m3u8
 http://103.146.185.235:8888/live/Kinoz/Mantulok/377.ts
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/780236541020901376/1NJBdqWw_400x400.jpg" group-title="Lokal", AREMA TV
 http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w1920962254.m3u8
+
+
+
+#EXTINF:-1 group-title="USEE PREMIUM",SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w125453484_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",INDOSIAR
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w922365072_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",INDOSIAR 2
+https://etslive-2-vidio-com.akamaized.net/exp=1585645564~acl=/hls-p/ingest_205_*/*~hmac=c6b8cd56ef91215d4aaf080a5d80bae00f29986193dfd54de28fc79c73fc9490/hls-p/ingest_205_480p/index.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",ANTV
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1772497938_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",METROTV
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w946037577_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",KOMPASTV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1141693343_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",KOMPASTV HD
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1141693343_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",TVONE
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w297813996_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",NET TV
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w8519684_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",TRANS7
+https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1422970763_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",TRANSTV
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w675055998_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",TVRI
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1416118249_b684100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",CNN
+https://vcdnjt.useetv.com/joss/15/cnnindonesia/chunklist_w520586499_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",WAKU WAKU JAPAN
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w13954984_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",USEESPORT
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2015097418_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",USEESPORT2
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2015097418_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",BEIN SPORT1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w499024717_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",BEIN SPORT2
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1014675317_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",CHAMPIONTV1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w1093620902_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",CHAMPIONTV2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1258878755_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",MOLA SPORT
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&userid=w5rfene8nj&tkn=J0AB5WRBBGXYKX2H4VCBY3Y1ODPH98LL&chname=Mola_Sports_Free_Trial-
+#EXTINF:-1 group-title="USEE PREMIUM",GOLF
+https://vcdnjt.useetv.com/joss/15/golfplus/chunklist_w451250377_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",NATIONAL GEOGRAPHIC
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w33878973_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",NAT GEO PEOPLE
+https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w1058634289_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",NAT GEO WILD
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1399283879_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",DISCOVERY
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w274927338_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",NBA
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_w152895494_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",WARNER TV
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1289728718_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",TVN MOVIES
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w113141221_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",FLIK
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w170449600_b894100_sleng.m3u8
+#EXTINF:-1 group-title="USEE PREMIUM",GALAXY
+https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1599985978_b894100_sleng.m3u8
