@@ -1,7 +1,4 @@
 #EXTM3U
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="NASIONAL",RCTI
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1583650912~exp=9007200838391903~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=fa1d9eaec484621276c2c756844271a106534de67de97b2708c8961d15d58085&hdnts=st=1583650913~exp=1583651033~acl=/*~id=7e93426c-d325-489a-9e9b-37bbdbfac0ed~data=114.4.220.98~hmac=2af2e1eb22424e0316a8b755c4fb95011aea0061b425787cef77b0559fb03b26
 #EXTINF:0 tvg-id="ext" group-title="NASIONAL",SCTV
@@ -66,7 +63,6 @@ http://streamku.live:8888/live/Premium/Premium2020/958.ts
 https://delivery.macan.live/stream/id_jaktv/index.m3u8?token=OpCKsDAP&v=20200308
 #EXTINF:0 tvg-id="ext" group-title="NASIONAL",Jawa Pos TV
 http://streamku.live:8888/live/Premium/Premium2020/617.ts
-
 #EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE",VOA Indonesia
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:0 tvg-id="history-rus" group-title="KNOWLEDGE",History Channel
