@@ -8,6 +8,8 @@ https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-
 https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA LOKAL",GTV+
 https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=3-mp4a_64000=2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDOESIA LOKAL",INEWS+
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JxwoVkK.png" group-title="INDONESIA LOKAL", ANTV
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_b894100_sleng_108307.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RS3w7vV.png" group-title="INDONESIA LOKAL", INDOSIAR
@@ -319,8 +321,6 @@ https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southea
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 #EXTINF:0 tvg-id="Metro.pl" group-title="TV NASIONAL",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",INEWS
-https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-id="rtvint" group-title="TV NASIONAL",RTV
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 #EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",BERITA SATU
