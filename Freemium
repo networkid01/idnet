@@ -7,7 +7,7 @@ https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDONESIA LOKAL",MNC+
 https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA LOKAL",GTV+
-https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=3-mp4a_64000=2.m3u8
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDOESIA LOKAL",INEWS+
 https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JxwoVkK.png" group-title="INDONESIA LOKAL", ANTV
